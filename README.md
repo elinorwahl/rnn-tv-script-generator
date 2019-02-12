@@ -8,8 +8,7 @@ which can be found [here](https://github.com/udacity/deep-learning) in the [tv-s
 A recurrent neural network is an artificial neural network in which the connections between nodes form a sequence, which
 allow the network to store and process information along a sequence of time. This kind of temporal memory is extremely 
 useful for recognizing patterns in things like moving images, and written and spoken language - the network can be trained 
-to understand how gestures or words unfold from one to the next, and can learn to predict what comes after a particular
-word or gesture based on context.
+to understand how events are connected and unfold from moment to moment, and can learn to guess what is likely to come next in a sequence of words or gestures based on context.
 
 ### Usage
 
